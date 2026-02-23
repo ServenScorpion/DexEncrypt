@@ -1,0 +1,13 @@
+certifi==2026.1.4
+charset-normalizer==3.4.4
+docopt==0.6.2
+idna==3.11
+names==0.3.0
+pipreqs==0.4.13
+pyarmor==9.2.3
+pyarmor.cli.core==8.1.0
+pycryptodome==3.23.0
+requests==2.32.5
+urllib3==2.6.3
+wheel==0.45.1
+yarg==0.1.10
